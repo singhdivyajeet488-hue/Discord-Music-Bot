@@ -1,8 +1,7 @@
 {
-    "Prefix": "Put anything you want as a prefix",
-    "MainColor": "Put any #HexCode you want for embeds color",
-    "WarnColor": "Put any #HexCode you want for warning embeds color",
-    "ErrorColor": "Put any #HexCode you want for error embeds color",
-    "ClientID": "Put your Bot ID/Client ID here",
-    "Token": "Put your Bot Token here"
+  "Prefix": "!",
+  "MainColor": "#2ECC71",
+  "ErrorColor": "#E74C3C",
+  "ClientID": "1509288594525786272",
+  "Token": "MTUwOTI4ODU5NDUyNTc4NjI3Mg.GGULgU.gtSTLBUQD8XKXU6tSGVUt9xW3LgMi6ue7hvZVI"
 }
